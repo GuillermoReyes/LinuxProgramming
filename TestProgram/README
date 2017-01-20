@@ -1,0 +1,7 @@
+This is a simple program just to test out certain system calls
+preferably compiled on a linux distribution. 
+May not be fully compatible with OSX 
+
+Notes: I used this tutorial on stackoverflow to help with the Makefile testing:
+http://stackoverflow.com/questions/10121182/multiline-bash-commands-in-makefile
+
